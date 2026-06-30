@@ -62,7 +62,23 @@ The goal of this repository is to gather high-quality resources in a single plac
 ### Postmortems
 - [**Classic Game Postmortem: Myst**](https://www.youtube.com/results?search_query=Robyn+Miller+Myst+Postmortem+GDC) — Robyn Miller (GDC 2013). The decisions and constraints that shaped one of the best-selling PC games of its era.
 - [**Fundamental Conflicts in Contemporary Game Design**](https://www.youtube.com/results?search_query=Jonathan+Blow+Fundamental+Conflicts+Contemporary+Game+Design) — Jonathan Blow (MIGS 2008). A critical look at tension between commercial pressures and meaningful design.
-- 📝 Articles & Blogs
+## 📝 Articles & Blogs
+
+### Documentation & Production
+- [**How to Make a Professional Game Design Document (GDD)**](https://epinero.com/articles/how-make-professional-game-design-document-gdd/) — Ezequiel Piñero. A practical, modular approach to writing GDDs, based on lessons from leading a real production.
+
+### Design Theory & Systems
+- [**Designer Notes**](https://www.designer-notes.com/) — Soren Johnson (Civilization III, Spore). A long-running blog and interview series on the craft and tradeoffs of game design.
+- [**Clockwork Game Design**](https://keithburgun.net/) — Keith Burgun. Deep dives into game design theory and formal mechanics, from the author of *Game Design Theory*.
+- [**Sirlin.net**](https://www.sirlin.net/) — David Sirlin. Detailed writing on systems design and competitive balancing, particularly fighting games.
+- [**A Series of Interesting Choices**](https://seriesofinterestingchoices.blogspot.com/) — A blog focused specifically on the mechanics of meaningful player choice.
+
+### Player Psychology & Monetization
+- [**Deconstructor of Fun**](https://www.deconstructoroffun.com/) — Written by F2P industry veterans, this is the go-to resource for understanding free-to-play design and player psychology.
+- [**Psychology of Games**](https://www.psychologyofgames.com/) — Jamie Madigan. Applies behavioral psychology research to why games (and their monetization) work the way they do.
+
+### Industry News & Postmortems
+- [**Game Developer (formerly Gamasutra)**](https://www.gamedeveloper.com/) — The longest-running industry publication, with in-depth postmortems, design analysis, and breaking news.
 - 🛠 Design Tools
 - 📄 Templates
 - 📊 Game Economy & Balance

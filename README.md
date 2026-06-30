@@ -65,7 +65,7 @@ The goal of this repository is to gather high-quality resources in a single plac
 ## 📝 Articles & Blogs
 
 ### Documentation & Production
-- [**How to Make a Professional Game Design Document (GDD)**](https://epinero.com/articles/how-make-professional-game-design-document-gdd/) — Ezequiel Piñero. A practical, modular approach to writing GDDs, based on lessons from leading a real production.
+- [**How to Make a Professional Game Design Document (GDD)**](https://strudoapp.com/articles/how-to-make-a-professional-game-design-document-gdd) — Ezequiel Piñero. A practical, modular approach to writing GDDs, based on lessons from leading a real production.
 
 ### Design Theory & Systems
 - [**Designer Notes**](https://www.designer-notes.com/) — Soren Johnson (Civilization III, Spore). A long-running blog and interview series on the craft and tradeoffs of game design.
@@ -79,7 +79,21 @@ The goal of this repository is to gather high-quality resources in a single plac
 
 ### Industry News & Postmortems
 - [**Game Developer (formerly Gamasutra)**](https://www.gamedeveloper.com/) — The longest-running industry publication, with in-depth postmortems, design analysis, and breaking news.
-- 🛠 Design Tools
+## 🛠 Design Tools
+
+### Documentation
+- [**Strudo**](https://strudoapp.com) — Structured documentation for creative production teams: typed blocks, department filtering, and an engine-agnostic API to connect design docs with your pipeline. Free plan available.
+- [**Notion**](https://www.notion.com/) — General-purpose workspace widely used for GDDs and wikis, with flexible databases and pages.
+- [**Confluence**](https://www.atlassian.com/software/confluence) — Atlassian's documentation tool, common in studios already using Jira for production tracking.
+- [**Articy:Draft**](https://www.articy.com/en/) — Narrative and dialogue design tool with branching flowcharts and engine exporters (Unity, Unreal).
+- [**World Anvil**](https://www.worldanvil.com/) — Worldbuilding-focused tool for lore, timelines, maps, and interconnected wiki-style articles.
+
+### Systems & Economy
+- [**Machinations**](https://machinations.io/) — Visual, simulation-based tool for designing and balancing game economies and systems.
+
+### Production & Whiteboarding
+- [**Codecks**](https://codecks.io/) — Card-based project management built specifically for game development teams.
+- [**Miro**](https://miro.com/) — Infinite canvas whiteboard, often used for pre-production brainstorming and systems mapping.
 - 📄 Templates
 - 📊 Game Economy & Balance
 - 🧠 Psychology & Player Experience

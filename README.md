@@ -37,7 +37,31 @@ The goal of this repository is to gather high-quality resources in a single plac
 - [**Persuasive Games**](https://www.goodreads.com/search?q=Persuasive+Games+Ian+Bogost) — Ian Bogost (2007). How games argue through their rules, not just their narrative.
 - [**Rise of the Videogame Zinesters**](https://www.goodreads.com/search?q=Rise+of+the+Videogame+Zinesters+Anna+Anthropy) — Anna Anthropy (2012). A manifesto on game design outside the traditional industry.
 - [**Extra Lives: Why Video Games Matter**](https://www.goodreads.com/search?q=Extra+Lives+Why+Video+Games+Matter+Tom+Bissell) — Tom Bissell (2010). A personal essay on why video games matter as an art form.
-- 🎥 Talks & Conferences
+## 🎥 Talks & Conferences
+
+### Design Process & Documentation
+- [**One-Page Designs**](https://www.youtube.com/results?search_query=Stone+Librande+One-Page+Designs+GDC) — Stone Librande (GDC 2010). Why one-page designs beat sprawling GDDs and wikis for clarity and speed of iteration.
+- [**Designing Games for Designers**](https://www.youtube.com/results?search_query=Stone+Librande+Designing+Games+for+Designers+GDC) — Stone Librande (GDC). A follow-up exploring how visual, game-like documentation improves communication across teams.
+
+### Narrative Design
+- [**Narrative Legos**](https://www.youtube.com/results?search_query=Ken+Levine+Narrative+Legos+GDC) — Ken Levine (GDC 2014). The BioShock creator's pitch for modular, player-driven narrative systems.
+- [**Designing Journey**](https://www.youtube.com/results?search_query=Jenova+Chen+Designing+Journey+GDC) — Jenova Chen (GDC 2013). How thatgamecompany approached emotion-first design in Journey.
+- [**Making Her Story – Telling a Story Using the Player's Imagination**](https://www.youtube.com/results?search_query=Sam+Barlow+Her+Story+GDC) — Sam Barlow (GDC). How Her Story let players reconstruct a narrative through their own investigative choices.
+
+### Systems & Level Design
+- [**Level Design in a Day: Decisions That Matter**](https://www.youtube.com/results?search_query=Matthias+Worch+Meaningful+Choice+Level+Design+GDC) — Matthias Worch (GDC 2014). Designing meaningful choice into level and game structure.
+- [**Scroll Back: The Theory and Practice of Cameras in Side-Scrollers**](https://www.youtube.com/results?search_query=Itay+Keren+Scroll+Back+Cameras+Side-Scrollers+GDC) — Itay Keren (GDC 2015). A breakdown of camera techniques used across classic side-scrolling games.
+
+### Player Psychology & Playtesting
+- [**A Theory of Fun, 10 Years Later**](https://www.youtube.com/results?search_query=Raph+Koster+Theory+of+Fun+10+Years+Later+GDC) — Raph Koster (GDC 2012). Revisiting the core ideas behind *A Theory of Fun for Game Design* a decade on.
+- [**Attention, Not Immersion**](https://www.youtube.com/results?search_query=Richard+Lemarchand+Attention+Not+Immersion+GDC) — Richard Lemarchand (GDC 2012). Using psychology and playtesting to improve player engagement, the Uncharted way.
+
+### Comedy & Tone
+- [**How to Make Your Game Just Completely Hilarious**](https://www.youtube.com/results?search_query=William+Pugh+Stanley+Parable+Hilarious+GDC) — William Pugh (GDC 2015). The Stanley Parable co-creator on writing comedy for games.
+
+### Postmortems
+- [**Classic Game Postmortem: Myst**](https://www.youtube.com/results?search_query=Robyn+Miller+Myst+Postmortem+GDC) — Robyn Miller (GDC 2013). The decisions and constraints that shaped one of the best-selling PC games of its era.
+- [**Fundamental Conflicts in Contemporary Game Design**](https://www.youtube.com/results?search_query=Jonathan+Blow+Fundamental+Conflicts+Contemporary+Game+Design) — Jonathan Blow (MIGS 2008). A critical look at tension between commercial pressures and meaningful design.
 - 📝 Articles & Blogs
 - 🛠 Design Tools
 - 📄 Templates

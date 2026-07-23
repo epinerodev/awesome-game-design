@@ -288,6 +288,7 @@ Enjoy.
 - [Yarn Spinner](https://yarnspinner.dev/) - Dialogue system used in Night in the Woods and other narrative-driven games
 - [Arcweave](https://arcweave.com/) - Modern web-based narrative design tool with real-time collaboration features
 - [Fungus](https://fungusgames.com/) - Free, open-source visual storytelling tool for Unity
+- [StoryPlay](https://github.com/monapdx/StoryPlay) - Visual editor for building interactive experiences.
 
 ### Game Balancing & Systems Design
 - [Machinations](https://machinations.io/) - Visual design tool for game systems and balancing
